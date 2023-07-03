@@ -1,0 +1,65 @@
+body{
+padding: 0;
+margin: 0;	
+background-color: #000;	
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+#gold{
+	color: white;
+	font-size: 24px;
+	font:bold;
+	margin-left: 6px;
+}
+#book{
+color: red;
+	font-size: 24px;
+	font:bold;
+}
+.img-logo{
+display: flex;
+margin: 20px 40px;	
+}
+.btn{
+position: relative;
+left: 25rem;
+padding: 10px 40px;	
+}
+.glb{
+	text-align: center;
+margin-top: 60px;	
+}
+.ind{
+font-size: 25px;
+color: #fff;
+font:bold;
+text-align: center;
+}
+.mainImgimg{
+margin-left: 300px;	
+}
+.ftrcont{
+color: #fff;
+text-align: center;
+font-size: 16px;
+font:bold;	
+line-height: 8px;
+}
+.cont{
+font-size: 17px;	
+color: #fff;	
+}
+.contIcon{
+	float: right;
+	margin-right: 20px;
+}
+.batboll-cont{
+	margin-top: 50px;
+	line-height: 15px; 
+	color: #fff;
+	font-size: 18px;
+
+}
+.batparant{
+display: flex;	
+}
